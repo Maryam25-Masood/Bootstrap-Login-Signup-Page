@@ -1,3 +1,3 @@
 # Login/Signup-Page
 
-![Login](https://user-images.githubusercontent.com/120028205/221374270-56442715-4c6d-4b24-bb90-312f41ff7d88.png)
+![Login](https://user-images.githubusercontent.com/120028205/221374875-1276dc71-bd96-491a-9748-f25cb4bee46f.png)
